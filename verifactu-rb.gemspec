@@ -34,7 +34,6 @@ Gem::Specification.new do |spec|
   # spec.add_dependency "example-gem", "~> 1.0"
   spec.add_dependency "nokogiri", ">= 1.15.0"   #  Rails 7.1 (1.18.9)
   spec.add_dependency "rack", ">= 2.2"          #  Rack 3.x - Rails 7.1
-  spec.add_dependency "nokogiri", "1.17.2"
   spec.add_dependency "bigdecimal"
   spec.add_dependency "savon"
   spec.add_dependency "rqrcode"
